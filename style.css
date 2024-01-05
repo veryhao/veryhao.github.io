@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  overflow: hidden;
+}
+
+p {
+  font-size: 4rem;
+  color: orange;
+}
+
+button {
+  border: none;
+  font-size: 2rem;
+  padding: 1rem;
+  border-radius: 1rem;
+}
